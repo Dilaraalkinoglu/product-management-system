@@ -68,5 +68,5 @@ build/
 # H2 veritabanı
 *.mv.db
 *.h2.db
-src/main/resources/application.properties
+
 
